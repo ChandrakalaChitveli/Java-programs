@@ -1,3 +1,4 @@
+//method to delete first in linked list
 class Node
 {
 int data;
