@@ -1,6 +1,4 @@
-
-
-
+// static input and dynamic array
 import java.util.*;
 public class  Main{
     public static void main(String[] args){
