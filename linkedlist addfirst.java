@@ -1,3 +1,4 @@
+//method to assfirst in linkedlist
 class Node
 {
 int data;
