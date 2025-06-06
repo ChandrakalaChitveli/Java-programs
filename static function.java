@@ -1,5 +1,5 @@
 
-
+// non-static function
 public class Main
 {
 	public static void add()
