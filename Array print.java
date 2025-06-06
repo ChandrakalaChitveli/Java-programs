@@ -1,3 +1,5 @@
+
+//array print
 public class Main
 {
 	public static void main(String[] args) {
